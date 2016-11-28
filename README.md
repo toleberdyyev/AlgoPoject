@@ -1,4 +1,4 @@
-# AlgoPoject by toleberdyyev
+# AlgoPoject by toleberdyyev not AlgoProject :)
 ##Hello :) , this **Algorithms sorting execution time project for SDU 2016 Fall**
 **First of all you must know some requirements :**
 * You must know a little about OOP 
