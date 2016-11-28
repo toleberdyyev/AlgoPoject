@@ -26,4 +26,4 @@ git clone https://github.com/toleberdyyev/AlgoPoject.git
 * after loading a project on your computer lets run it ```Ctrl + R```
 
 ## That's all , thanks for ur attention , I wish I'll helped for someones :)
-if will be some questions write me on **Telegram** by my login : **@fredcolin079** , bye.
+if will be some questions, write me on **Telegram** by my login : **@fredcolin079** , bye.
