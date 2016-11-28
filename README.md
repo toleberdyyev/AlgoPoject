@@ -1,4 +1,4 @@
-# AlgoPoject by toleberdyyev not AlgoProject :)
+# AlgoPoject by toleberdyyev, yes yes not a AlgoProject :)
 ##Hello, this is Algorithms sorting execution time project for SDU 2016 Fall
 **First of all you must know some requirements :**
 * You must install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) or just a find out in [Google] (https://www.google.com/)  how to run IntelliJ IDEA app.
@@ -18,8 +18,9 @@ This project contains six sorting algorithms:
 
 ## Lets start ( it is very easy)
 
-```bash
+*```bash
 git clone https://github.com/toleberdyyev/AlgoPoject.git
 ```
+
 
 
