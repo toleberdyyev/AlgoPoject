@@ -7,6 +7,9 @@
 
 ##About a Project:
 This project contains six sorting algorithms:
-* Selection Sort
-* Radix Sort
-* 
+* SelectionSort()
+* RadixSort()
+* BubbleSort()
+* MergeSort() + merge()
+* QuickSort() + partition()
+
