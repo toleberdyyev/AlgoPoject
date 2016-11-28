@@ -18,9 +18,7 @@ This project contains six sorting algorithms:
 
 ## Lets start ( it is very easy)
 
-*```bash
-git clone https://github.com/toleberdyyev/AlgoPoject.git
-```
+*```bash git clone https://github.com/toleberdyyev/AlgoPoject.git```
 
 
 
