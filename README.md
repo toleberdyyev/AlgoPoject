@@ -18,7 +18,10 @@ This project contains six sorting algorithms:
 
 ## Lets start ( it is very easy)
 
-*```bash git clone https://github.com/toleberdyyev/AlgoPoject.git```
-
-
+```bash 
+git clone https://github.com/toleberdyyev/AlgoPoject.git
+```
+* them open IntelliJ IDEA 
+* click ``` open ```
+* after loading a project on your computer lets run it ```Ctrl + R```
 
