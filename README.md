@@ -4,6 +4,7 @@
 * You must know a little about OOP 
 * You must know a little Java7 or 8 and JavaFX Syntaxis
 * You must be a positive man and love ``` System.out.println("keep Calm");``` :)
+---
 ##About a Project:
 This project contains six sorting algorithms:
 * Selection Sort
